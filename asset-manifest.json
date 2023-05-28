@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fundamentos-react/static/css/main.a0a0b117.css",
+    "main.js": "/fundamentos-react/static/js/main.d41a87e5.js",
+    "index.html": "/fundamentos-react/index.html",
+    "main.a0a0b117.css.map": "/fundamentos-react/static/css/main.a0a0b117.css.map",
+    "main.d41a87e5.js.map": "/fundamentos-react/static/js/main.d41a87e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0a0b117.css",
+    "static/js/main.d41a87e5.js"
+  ]
+}
