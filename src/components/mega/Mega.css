@@ -1,0 +1,9 @@
+.Mega label {
+   margin-right: 10px;
+}
+
+.Mega input {
+  font-size: 1.2rem;
+  width: 80px;
+  outline: none;
+}
